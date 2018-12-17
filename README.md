@@ -40,10 +40,10 @@ Example:
  mouseMoved
 ```
 ### Comments
-Should be above the code, using // to comment.
+Should be above the code, using # to comment.
 Example:
 ```
-// this is code   
+# this is a comment   
 code() 
 ```
 ### Functions
